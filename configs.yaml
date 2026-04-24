@@ -1,0 +1,24 @@
+runs:
+  - id: gpt_4o_mini
+    model: gpt-4o-mini
+    provider: openai
+    temperature: 0.0
+    max_tokens: 512
+    system_prompt: |
+      You are a helpful assistant. Answer concisely and follow any format
+      constraints in the user prompt exactly.
+
+  - id: gpt_4o
+    model: gpt-4o
+    provider: openai
+    temperature: 0.0
+    max_tokens: 512
+    system_prompt: |
+      You are a helpful assistant. Answer concisely and follow any format
+      constraints in the user prompt exactly.
+
+judge:
+  model: gpt-4o-mini
+  provider: openai
+  temperature: 0.0
+  max_tokens: 256
