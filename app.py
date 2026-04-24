@@ -24,7 +24,7 @@ st.title("LLM Evaluation Framework")
 st.caption(
     "Regression eval over curated test suites × LLM configs. "
     "Manual rubric + LLM-as-judge + reproducible reports. "
-    "[Source & spec on GitHub](https://github.com/ALchemt)"
+    "[Source & spec on GitHub](https://github.com/ALchemt/llm-eval)"
 )
 
 with st.sidebar:

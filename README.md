@@ -168,5 +168,6 @@ MIT.
 
 ---
 
-Portfolio project by Andrey Ovsyannikov ([github.com/ALchemt](https://github.com/ALchemt)).
+Portfolio project by Andrey Ovsyannikov — [github.com/ALchemt/llm-eval](https://github.com/ALchemt/llm-eval).
+Companion project: [github.com/ALchemt/rag-qa](https://github.com/ALchemt/rag-qa) — RAG Document Q&A.
 Part of a 4-project AI portfolio — see parent directory for others.
